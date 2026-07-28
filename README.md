@@ -164,7 +164,7 @@ Adventure-Works-Sales-Dashboard/
 └── Adventure_Works_Dashboard.xlsx
 
 ## 📊 Dashboard Preview
-![Adventure Works Sales Dashboard](screenshots/Adventure_Works_Dashboard.png)
+![Adventure Works Sales Dashboard]((https://github.com/PratikshaBhosale8997/Adventure_works_analysis_excel_project/blob/main/Snapshot_of_Adventure_works_sales_dashboard_Excel.png))
 
 
 ## 👩‍💻 Author
