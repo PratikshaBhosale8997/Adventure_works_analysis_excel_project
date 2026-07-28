@@ -167,9 +167,14 @@ Adventure-Works-Sales-Dashboard/
 ![Adventure Works Sales Dashboard](screenshots/Adventure_Works_Dashboard.png)
 
 
-
 ## 👩‍💻 Author
 **Pratiksha Subhash Bhosale**  
+
+## 📧 Contact
+pratikshabhosale1501@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/profile](https://www.linkedin.com/in/pratiksha-bhosale-6b433837b/)
+
+
 
 ---
 ⭐ If you find this useful, give it a star!
